@@ -1,0 +1,6 @@
+framework module LibraryGroup13 {
+  umbrella header "LibraryGroup13-umbrella.h"
+
+  export *
+  module * { export * }
+}

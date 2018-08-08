@@ -1,0 +1,16 @@
+PODS:
+  - LibraryGroup13 (0.1.0)
+
+DEPENDENCIES:
+  - LibraryGroup13 (from `../`)
+
+EXTERNAL SOURCES:
+  LibraryGroup13:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LibraryGroup13: 9adcc0d318ec6a33ab4fa33711a49f596cc672ae
+
+PODFILE CHECKSUM: 189f9ff9721ad18d601065d6d0b32c652cb38542
+
+COCOAPODS: 1.5.3
